@@ -10,5 +10,11 @@ package edu.portada.alquilacarchurriana;
  * @author s0ck3
  */
 public class utils {
+    public static void main(String args[]){
+        
+    }
     
+    static class ageCheck{
+        
+    }
 }
